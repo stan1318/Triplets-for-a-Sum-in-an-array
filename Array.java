@@ -1,5 +1,5 @@
 package com.exc2;
-//Make a Java program to find all triplets equal to a given sum in a unsorted array of integers
+//Made a Java program to find all triplets equal to a given sum in a unsorted array of integers
 public class Array {
 
     static void find_triplets(int[] numbers, int given_sum){
